@@ -4,8 +4,8 @@ import aiohttp
 from io import BytesIO, StringIO
 from pyrogram import Client
 
-users ={}
-user_time = {}
+#users ={}
+#user_time = {}
 
 API_ID = os.environ.get('API_ID')
 API_HASH = os.environ.get('API_HASH')
