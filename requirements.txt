@@ -8,3 +8,4 @@ bs4
 apscheduler
 motor
 dnspython
+git+https://github.com/ytdl-org/youtube-dl
